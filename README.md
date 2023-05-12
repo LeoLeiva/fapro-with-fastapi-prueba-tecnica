@@ -29,7 +29,7 @@ You can check the [documentation here](documentation/readme/API_README.md).
 
 ## Testing
 
-Running `pytest` on the main directory runs unit and bdd tests.
+Running `pytest` on the main directory runs tests.
 
     pytest
 
